@@ -1,6 +1,74 @@
-#+TITLE: Readme
+#+TITLE: A course on Maths and Philosophy through CS
+
+This is a course that I have laid down for studying during my one-year break because of the Covid19 situation. I have deferred my Ph.D. to next year and before that this course lays down a good foundation for my Ph.D., while also allowing me to study things which I probably would never have the opportunity to study. However, as I began formulating the course and initiated the study, I realized that this may be a decade-long (or even life-long) journey for studying Maths and CS.
+
+And so, here is a course I present to you. A course for relishing Maths and Philosophy through Computer Science.
+
+* Course
+
+** Philosophy
+- Logic
+  - Teach Yourself Logic : A Study Guide
+  - David Papineau's Book
+- Epistemology (??)
+- Ontology (??)
+
+** Maths
+
+*** Pleasure and Inspirational Reads
+- Men of Mathematics
+- Mathematician's Lament
+- Fermat's Last Theorem
+
+*** YouTube Channels
+- Eddie Woo
+- 3Blue1Brown
+- Numberphile
+
+*** Prep Maths
+
+**** Tour Course
+- Howard Eves', Ian Stewart's or Saunder McLane's Books
+- Martin Liebeck's Introduction to Pure Mathematics
+  - This is quite a good, hands-on book that revisits several high-school topics but with rigour, and then also gradually trascend into university Maths
+
+**** Maths Logic (Mathematical Thinking and Proofs training)
+- Kevin Houston's How to think like a mathematician
+- David Velleman's How to prove it
+
+**** How to Study for Maths. Meta-cognitive courses on Maths.
+- Lara Alcocks' books
+- Barbara Oakley's A mind for numbers OR Learning how to learn
+- Princeton Lifesaver Gudies (for Calculus, Real Analysis and Probability)
+
+*** UG Maths
+**** Pre-university Maths
+**** Engineering Maths (Calculus, LA, CA, ODEs, PDEs, Basic ProbStats)
+
+*** Graduate Maths
+**** Real Analysis
+**** Graduate Linear Algebra
+**** Abstract Algebra
+**** Graduate Probability Statistics
+
+** CS
+
+*** CS Tour Course
+- "CS Distilled Book"
+- CS50 course by David Malan
+ 
+*** Discrete Maths
+*** Algos and DS
+
+* WORK-IN-PROGRESS : Context and Motivation
+
+I've been out of the university for over 5 years now (and 6 years since I last credited a lecture), been involved in industry solving problems. I have a formal education in Mechanical Engineering (both my undergraduate and Masters being in the field). As an undergraduate, I was involved heavily in programming and embedded projects, and problem solving in these domains became a serious hobby. I acquired a knack for solving the problems of the "machine" (I will use this term to refer to "artificial computing machines" that are studied in Computer Science). I was half-decent mechanical engineering and half-decent computer engineer by then.
+
+However, in my Masters, I reverted back to a degree in Mechanical Engineering, partly because of a spiritual reservation I had: Working on machines didn't provide me the same spiritual satisfaction as studying classical Physics that we study in Mechanical Engineering (esp. Thermodynamics and Classical Mechanics). The rules of the "machine" were ephemeral, based on the whims of human nature, bound to change tomorrow, while the rules uncovered in studying the nature are more permanent and felt like they revealed something fundamentally true about the nature.
+
+In Masters, as I started tackling some classical mechanics problems, I did the most beautiful discovery: Mathematics. Sure I knew Mathematics. I had been using it for so many years. But I never loved it. Primarily because Maths had so far been getting to the right answer the quickest. It was for the first time I realized that Higher Mathematics was not at all about how fast you can go, rather how "slow" you can go (i.e. how much patience you have when plodding through extremely tough texts). It was the realization of the highest order and it felt that this was the purpose of humanity: after all these millenia of wars and famines and violence, we had finally "arrived" in this age where Maths was so well developed that it could be relished. If even after being so lucky to be born in this age, if I were to go without enjoying Mathematics, it would be a big waste.
 
 
+TODO: Writing in progress.
 
-
-* Dwinch's remarkable course on Maths, CS and Philosophy
+# It'd be like learning a new language. Remember how much those village women appreciated being literate finally. It was like a whole new world opened up to them, which was non-existent before. It was some experience! Similarly, knowing Mathematics would be like being literate finally to another world — a world of nature.
