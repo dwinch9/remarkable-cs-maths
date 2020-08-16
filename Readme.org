@@ -15,17 +15,9 @@ And so, here is a course I present to you. A course for relishing Maths and Phil
 
 ** Maths
 
-*** Pleasure and Inspirational Reads
-- Men of Mathematics
-- Mathematician's Lament
-- Fermat's Last Theorem
+My curriculum for Maths has been divided into 3 categories, which are to be done "mostly" in the order presented (but some parts of initial courses will be revisited later).
 
-*** YouTube Channels
-- Eddie Woo
-- 3Blue1Brown
-- Numberphile
-
-*** Prep Maths
+*** 1 : Prep Maths
 
 **** Tour Course
 - Howard Eves', Ian Stewart's or Saunder McLane's Books
@@ -41,15 +33,28 @@ And so, here is a course I present to you. A course for relishing Maths and Phil
 - Barbara Oakley's A mind for numbers OR Learning how to learn
 - Princeton Lifesaver Gudies (for Calculus, Real Analysis and Probability)
 
-*** UG Maths
+*** 2 : UG Maths
 **** Pre-university Maths
 **** Engineering Maths (Calculus, LA, CA, ODEs, PDEs, Basic ProbStats)
 
-*** Graduate Maths
+*** 3 : Graduate Maths
 **** Real Analysis
 **** Graduate Linear Algebra
 **** Abstract Algebra
 **** Graduate Probability Statistics
+
+*** Miscellaneous Resources
+
+**** Pleasure and Inspirational Reads
+- Men of Mathematics
+- Mathematician's Lament
+- Fermat's Last Theorem
+
+**** YouTube Channels
+- Eddie Woo
+- 3Blue1Brown
+- Numberphile
+
 
 ** CS
 
